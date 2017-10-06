@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Okarta</string>
+    <string name="auth_failed">User Already Exist / Network Error</string>
+    <string name="loading_data">Loading User Data &#8230;</string>
+    <string name="loading_sensor">Loading Sensor Data &#8230;</string>
+    <string name="email_format">%s@okarta.com</string>
+    <string name="car_format">%1$s : %2$s</string>
+    <string name="option1">Brake Shoe</string>
+    <string name="option2">Air Cleaner</string>
+    <string name="option3">Accumulator</string>
+    <string name="option4">Service</string>
+
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="car_type_hint">Car Type</string>
+    <string name="car_plat_hint">Car Plat</string>
+    <string name="sensor_id_hint">Sensor Id</string>
+
+    <string name="login_button">Login</string>
+    <string name="logout_button">Logout</string>
+    <string name="register_button">Register</string>
+    <string name="car_upload_button">Car Upload Button</string>
+    
+    <string name="good_condition">%s in good condition</string>
+    <string name="bad_condition">%s in bad condition</string>
+    <string name="change_condition">%s in change condition</string>
+
+    <!--<string name="url_thingspeak">http://api.thingspeak.com</string>-->
+    <string name="url_thingspeak">http://api.thingspeak.com/channels/331156/feeds/last.json?api_key=C5V2PY4BPOLWP5QS</string>
+
+</resources>
